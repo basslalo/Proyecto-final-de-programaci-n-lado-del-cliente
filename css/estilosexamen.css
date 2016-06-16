@@ -1,0 +1,31 @@
+       body{
+            
+            padding: 100px;
+        }
+        .color1{
+            background:skyblue;   
+        }
+        nano{
+            
+            text-align: center;
+        }
+        #entorno{
+            margin-right: 100px;
+            margin-left:  100px;
+            
+        }
+
+
+#Temas{
+  text-align: center;
+  font: 100% sans-serif;
+}
+
+#Temas1{
+  text-align: center;
+  font: 80% sans-serif;
+}
+	
+  #Agua {
+    text-align: center;
+  }
